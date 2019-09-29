@@ -1,0 +1,21 @@
+[
+ {"object" : "SBQQ__DiscountCategory__c", "index" : "1"},
+ {"object" : "SBQQ__DiscountSchedule__c", "index" : "2"},
+ {"object" : "SBQQ__DiscountTier__c", "index" : "3"},
+ {"object" : "Product2", "index" : "4"},
+ {"object" : "SBQQ__ProductFeature__c", "index" : "5"},
+ {"object" : "SBQQ__ProductOption__c", "index" : "6"},
+ {"object" : "SBQQ__OptionConstraint__c", "index" : "7"},
+ {"object" : "SBQQ__ConfigurationAttribute__c", "index" : "8"},
+ {"object" : "SBQQ__SummaryVariable__c", "index" : "9"},
+ {"object" : "SBQQ__ProductRule__c", "index" : "10"},
+ {"object" : "SBQQ__ErrorCondition__c", "index" : "11"},
+ {"object" : "SBQQ__ProductAction__c", "index" : "12"},
+ {"object" : "SBQQ__PriceRule__c", "index" : "13"},
+ {"object" : "SBQQ__PriceCondition__c", "index" : "14"},
+ {"object" : "SBQQ__LookupQuery__c", "index" : "15"},
+ {"object" : "SBQQ__PriceAction__c", "index" : "16"},
+ {"object" : "Pricebook2", "index" : "17"},
+ {"object" : "PricebookEntry", "index" : "18"},
+ {"object" : "SBQQ__Dimension__c", "index" : "19"}
+]
