@@ -3,8 +3,8 @@
 const yargs = require('yargs')
 const chalk = require('chalk')
 const prompt = require('prompt')
-const loginUtil = require('./sfdc-login')
-const loader = require('./cpq-loader')
+const loginUtil = require('./src/sfdc-login')
+const loader = require('./src/cpq-loader')
 
 
 var schema_credentials = {

@@ -1,7 +1,7 @@
 const nforce = require('nforce')
 const chalk = require('chalk')
 //const SOQL = require('salesforce-queries').SOQL
-const token = require('./tokens.js')
+const token = require('./src/tokens.js')
 
 const sourceConnection = token.loadConnectionParam('source')
 const targetConnection = token.loadConnectionParam('target')
