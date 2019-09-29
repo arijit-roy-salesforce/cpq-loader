@@ -1,0 +1,30 @@
+{
+    "insert": [
+        "blng__TaxRule__c", 
+        "blng__RevenueRecognitionRule__c", 
+        "SBQQ__UpgradeSource__c", 
+        "SBQQ__UpgradeTarget__c", 
+        "SBQQ__UpgradeCredit__c",
+        "SBQQ__SubscriptionTarget__c",
+        "SBQQ__RenewalProduct__c",
+        "SBQQ__PricingGuidance__c",
+        "ExternalDataSourceId",
+        "SBQQ__CostSchedule__c",
+        "SBQQ__TermDiscountSchedule__c",
+        "SBQQ__DiscountSchedule__c",
+        "SBQQ__DiscountCategory__c",
+        "blng__BillingRule__c"
+    ],
+    "upsert": [
+        "blng__TaxRule__c", 
+        "blng__RevenueRecognitionRule__c", 
+        "SBQQ__PricingGuidance__c",
+        "ExternalDataSourceId",
+        "SBQQ__CostSchedule__c",
+        "SBQQ__TermDiscountSchedule__c",
+        "SBQQ__DiscountSchedule__c",
+        "SBQQ__DiscountCategory__c",
+        "blng__BillingRule__c"
+    ]
+
+}
