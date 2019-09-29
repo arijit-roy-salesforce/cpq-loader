@@ -1,6 +1,7 @@
 # json
 *.json
 !product-ignore.json
+!package.json
 ./node_modules
 # === Rules for `node_modules` ===
 !**/node_modules/**

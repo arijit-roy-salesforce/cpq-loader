@@ -1,0 +1,23 @@
+{
+  "name": "salesforce-moover",
+  "version": "1.0.0",
+  "description": "Utility tool to move Salesforce CPQ reference data from source org to a target org",
+  "bin": {
+    "cpq": "app.js"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "author": "Arijit Roy (Acumen Solutions)",
+  "license": "ISC",
+  "dependencies": {
+    "asyncwait": "^1.0.2",
+    "chalk": "^2.4.2",
+    "nforce": "^1.12.2",
+    "prompt": "^1.0.0",
+    "salesforce-queries": "0.0.2",
+    "yargs": "^14.0.0"
+  }
+}
